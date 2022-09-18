@@ -13,6 +13,8 @@ AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，
 
 ### 生成结果示例1：
 
+![yv0kRz](https://imageio.jscs.top/yv0kRz.png)
+
 文本：
 
 恰到好处的喜欢最舒服，懂得分寸的关系最迷人。
@@ -36,6 +38,8 @@ AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，
 结果：https://lire.oss-cn-hangzhou.aliyuncs.com/web_static/oss/示例1.mp4
 
 ### 生成结果示例2：
+
+![P2PUMq](https://imageio.jscs.top/P2PUMq.png)
 
 文本：
 
@@ -87,3 +91,4 @@ AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，
 ![fKqCoM](https://imageio.jscs.top/fKqCoM.png)
 
 8、更多高级功能正在加速开发中。
+
