@@ -35,7 +35,7 @@ AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，
 
 懂得适可而止才不讨人厌。
 
-结果：https://lire.oss-cn-hangzhou.aliyuncs.com/web_static/oss/示例1.mp4
+生成结果视频：https://lire.oss-cn-hangzhou.aliyuncs.com/web_static/oss/示例1.mp4
 
 ### 生成结果示例2：
 
@@ -57,7 +57,7 @@ AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，
 
 不要去欺骗别人，因为你能骗到的，都是相信你的人。
 
-结果：https://lire.oss-cn-hangzhou.aliyuncs.com/web_static/oss/示例2.mp4
+生成结果视频：https://lire.oss-cn-hangzhou.aliyuncs.com/web_static/oss/示例2.mp4
 
 ## 软件下载
 
