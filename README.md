@@ -39,7 +39,7 @@ AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，
 
 ### 生成结果示例2：
 
-![P2PUMq](https://imageio.jscs.top/P2PUMq.png)
+![RXqsdY](https://imageio.jscs.top/RXqsdY.jpg)
 
 文本：
 
