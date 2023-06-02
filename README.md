@@ -61,8 +61,8 @@ AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，
 
 ## 软件下载
 
-- Mac版：https://lire.oss-cn-hangzhou.aliyuncs.com/ossp/mac_CreateVideo_1.2.0.zip
-- Windows版：https://lire.oss-cn-hangzhou.aliyuncs.com/ossp/windows_CreateVideo_1.2.0.zip
+- Windows版：https://www.123pan.com/s/GCcrVv-thfJ3.html
+- Mac版：https://www.123pan.com/s/GCcrVv-thfJ3.html
 
 ## 使用手册
 
