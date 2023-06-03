@@ -74,21 +74,17 @@ AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，
 
 ![jvHK6Z](https://imageio.jscs.top/jvHK6Z.jpg)
 
-3、内容过多影响生成速度，建议不超过1500个字。
-
-4、打开软件，选取需要进行转换视频的文本文件，支持多选。
+3、打开软件，选取需要进行转换视频的文本文件，支持多选。
 
 <img width="816" alt="image" src="https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/08c56acf-47f9-4c10-bebf-a33ed67e33a0">
 
-5、选取文件，点击开始后，软件会自动开始AI转视频。
+4、选取文件，点击开始后，软件会自动开始AI转视频。
 
 <img width="691" alt="image" src="https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/76da69ba-9c13-4707-b245-9a63dd628455">
 
-6、如转换失败，请重新选取目录进行重试。
-
-7、输出的视频在桌面的上的"文本转短视频"目录中。
+5、输出的视频在桌面的上的"文本转短视频"目录中。
 
 ![image](https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/85e7eeb2-5c51-483f-8b6d-fe758e54a667)
 
-8、更多高级功能正在加速开发中。
+6、更多高级功能正在加速开发中。
 
