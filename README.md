@@ -13,51 +13,15 @@ AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，
 
 ### 生成结果示例1：
 
-![yv0kRz](https://imageio.jscs.top/yv0kRz.png)
-
-文本：
-
-恰到好处的喜欢最舒服，懂得分寸的关系最迷人。
-
-今天再大的事到了明天就是小事，
-
-今年再大的事到了明年就是故事，
-
-凡事开心点，反正最后谁也不能活着离开这个世界。
-
-这世界上大部分的失落，
-
-都是因为我们自己没成为更好的自己，
-
-却奢求着别人成为更好的别人。
-
-让人难堪的玩笑不要开，让人反感的事不要做，
-
-懂得适可而止才不讨人厌。
-
-生成结果视频：https://lire.oss-cn-hangzhou.aliyuncs.com/web_static/oss/示例1.mp4
+[烫金不干胶](https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/6bc8495a-b48f-4581-9458-0b636c001fb8)
 
 ### 生成结果示例2：
 
-![RXqsdY](https://imageio.jscs.top/RXqsdY.jpg)
+[人的一生都在为认知买单](https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/093655a0-ba6c-4020-9a47-862e85d70fd5)
 
-文本：
+### 生成结果示例3：
 
-生活山高水阔，我喜欢我们各自坚守，并各自自由。
-
-生命中有一些人与我们擦肩了，却来不及遇见，
-
-遇见了，却来不及相识，
-
-相识了，却来不及熟悉，
-
-熟悉了，却还是要说再见。
-
-信任就像一张纸，皱了，及时抚平，也恢复不了原样！
-
-不要去欺骗别人，因为你能骗到的，都是相信你的人。
-
-生成结果视频：https://lire.oss-cn-hangzhou.aliyuncs.com/web_static/oss/示例2.mp4
+[时间的阴谋](https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/a96986f3-0fce-4e6c-a08b-f651cd4f83d0)
 
 ## 软件下载
 
