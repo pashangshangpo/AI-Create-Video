@@ -30,25 +30,21 @@ AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，
 
 ## 使用手册
 
-1、请将要生成视频的内容放到.txt文件中。
+1、请将要生成视频的内容放到.txt文件中，文件内容作为视频内容，一行一句话，支持自定义封面，更多使用示例和教程可以下载软件点击帮助文档查看。
 
-![d5f9mM](https://imageio.jscs.top/d5f9mM.png)
+<img width="718" alt="image" src="https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/b4c23c3a-92cf-4cf2-8bfa-36dd68c9bb89">
 
-2、文件名为标题，文件内容作为视频内容，一行一句话。
+2、打开软件，选取需要进行转换视频的文本文件，支持多选。
 
-![jvHK6Z](https://imageio.jscs.top/jvHK6Z.jpg)
+<img width="696" alt="image" src="https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/2f997bc7-4d42-404f-80c6-d634fcf8407e">
 
-3、打开软件，选取需要进行转换视频的文本文件，支持多选。
+3、选取文件，点击开始后，软件会自动开始AI转视频。
 
-<img width="816" alt="image" src="https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/08c56acf-47f9-4c10-bebf-a33ed67e33a0">
+<img width="700" alt="image" src="https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/3e31e1f8-d39e-4555-885e-b5b20e255744">
 
-4、选取文件，点击开始后，软件会自动开始AI转视频。
+4、输出的视频在桌面的上的"文本转短视频"目录中。
 
-<img width="691" alt="image" src="https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/76da69ba-9c13-4707-b245-9a63dd628455">
+<img width="947" alt="image" src="https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/2b27e7d9-640e-45f5-a2b1-6311e1089c31">
 
-5、输出的视频在桌面的上的"文本转短视频"目录中。
-
-![image](https://github.com/pashangshangpo/AI-Create-Video/assets/28686832/85e7eeb2-5c51-483f-8b6d-fe758e54a667)
-
-6、更多高级功能正在加速开发中。
+5、更多高级功能正在加速开发中。
 
